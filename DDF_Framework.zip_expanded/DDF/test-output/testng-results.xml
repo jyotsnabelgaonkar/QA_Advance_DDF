@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="71384" started-at="2021-10-11T17:09:24 IST" finished-at="2021-10-11T17:10:36 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="71384" started-at="2021-10-11T17:09:24 IST" finished-at="2021-10-11T17:10:36 IST">
+      <class name="com.ddf.test.LoginTest.loginTest_v3_1_xml_OR">
+        <test-method status="PASS" signature="testOne()[pri:0, instance:com.ddf.test.LoginTest.loginTest_v3_1_xml_OR@62bd765]" name="testOne" duration-ms="67522" started-at="2021-10-11T17:09:24 IST" finished-at="2021-10-11T17:10:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.ddf.test.LoginTest.loginTest_v3_1_xml_OR@62bd765]" name="endReport" is-config="true" duration-ms="3565" started-at="2021-10-11T17:10:32 IST" finished-at="2021-10-11T17:10:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.ddf.test.LoginTest.loginTest_v3_1_xml_OR -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
